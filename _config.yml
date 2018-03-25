@@ -39,7 +39,7 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-time-machine
 exclude:
   - Gemfile
   - Gemfile.lock
